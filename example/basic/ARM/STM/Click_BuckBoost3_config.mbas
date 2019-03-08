@@ -1,0 +1,4 @@
+module Click_BuckBoost3_config
+
+include Click_BuckBoost3_types
+end.
